@@ -1,0 +1,7 @@
+describe('busca cursos', () =>{
+
+    beforeEach(() => {
+        
+    })
+
+} )
